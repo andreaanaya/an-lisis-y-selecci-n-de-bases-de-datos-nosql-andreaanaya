@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+NoSQL Clave-Valor | Ofrece latencia mínima para acceso por clave única y soporte nativo de sesiones temporales (TTL).

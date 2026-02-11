@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+NoSQL de Grafos | Optimizado para analizar conexiones y patrones de relación entre usuarios y productos (recomendaciones).

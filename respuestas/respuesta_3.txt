@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+NoSQL Columnar | Ideal para grandes volúmenes de logs y eficiente en consultas de agregación por rangos de tiempo (ventanas).
